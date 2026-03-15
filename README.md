@@ -6,14 +6,13 @@ This project is an Arduino-based autonomous robot designed to detect and avoid o
 ---
 
 ## Robot Photo
-![Robot Build](robot-photo.jpg)
+<img src="Autonomous Robot Car Picture.PNG" width="500">
 
 ---
 
 ## Demo Video
 Watch the robot detecting and avoiding obstacles in real time.
-
-https://youtube.com/shorts/UFutlxOj5FQ
+<video src="Autonomous Robot Car Demo.MOV" width="500" controls></video>
 
 ---
 
@@ -27,7 +26,7 @@ https://youtube.com/shorts/UFutlxOj5FQ
 ---
 
 ## Wiring Diagram
-![Wiring Diagram](wiring-diagram.png)
+<img src="Wiring Circuit.PNG" width="500">
 
 The wiring diagram shows how the Arduino Uno connects to the ultrasonic sensor and the continuous rotation servos. The ultrasonic sensor provides distance measurements, while the servos control the movement of the robot's wheels.
 
