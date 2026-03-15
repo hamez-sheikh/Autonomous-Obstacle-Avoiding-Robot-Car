@@ -32,7 +32,7 @@ The wiring diagram shows how the Arduino Uno connects to the ultrasonic sensor a
 
 ---
 
-## Components
+## Hardware Components
 - Arduino Uno  
 - HC-SR04 Ultrasonic Sensor  
 - Continuous Rotation Servos (x2)  
