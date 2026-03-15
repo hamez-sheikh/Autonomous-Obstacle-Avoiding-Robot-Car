@@ -49,11 +49,7 @@ The ultrasonic sensor continuously measures the distance to objects in front of 
 ---
 
 ## Code
-The robot is programmed using Arduino C++ and uses the Servo library to control the continuous rotation servos and trigger logic for obstacle detection.
 
-Main logic steps:
-1. Trigger ultrasonic sensor to measure distance
-2. Read distance value from sensor
-3. Compare distance to obstacle threshold
-4. If obstacle detected → stop and turn
-5. If path clear → continue moving forward
+The Arduino code used to control the robot can be found here:
+
+[View Robot Code](RobotFinalCode.ino)
