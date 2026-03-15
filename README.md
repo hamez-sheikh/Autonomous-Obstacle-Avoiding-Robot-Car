@@ -12,7 +12,7 @@ This project is an Arduino-based autonomous robot designed to detect and avoid o
 
 ## Demo Video
 Watch the robot detecting and avoiding obstacles in real time.
-<video src="Autonomous Robot Car Demo.MOV" width="500" controls></video>
+<video src="Autonomous Robot Car Demo.mp4" width="500" controls></video>
 
 ---
 
