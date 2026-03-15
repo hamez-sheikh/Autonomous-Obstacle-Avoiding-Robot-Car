@@ -53,3 +53,25 @@ The ultrasonic sensor continuously measures the distance to objects in front of 
 The Arduino code used to control the robot can be found here:
 
 [View Robot Code](RobotFinalCode.ino)
+
+---
+
+## Technical Specifications
+
+- Microcontroller: Arduino Uno  
+- Sensor: HC-SR04 Ultrasonic Distance Sensor  
+- Actuation: Continuous Rotation Servos  
+- Programming Language: Arduino C++  
+- Detection Range: ~2 cm – 400 cm  
+- Obstacle Detection Threshold: ~10 cm
+
+---
+
+## Future Improvements
+
+- Add a rotating ultrasonic sensor for wider obstacle scanning
+- Improve turning algorithm for smoother navigation
+- Replace breadboard wiring with a soldered circuit
+- Implement smarter pathfinding logic
+
+
